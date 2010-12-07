@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: http://www.serastore.co.uk/sitemap.xml
